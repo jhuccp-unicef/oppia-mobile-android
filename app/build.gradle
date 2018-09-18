@@ -20,7 +20,7 @@ android {
         versionCode 65
         versionName "6.5.0"
 
-        applicationId "org.digitalcampus.mobile.learning"
+        applicationId "org.unicef.mobile.learning"
         minSdkVersion 14
         targetSdkVersion 25
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
